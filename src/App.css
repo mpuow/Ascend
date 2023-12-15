@@ -1,0 +1,9 @@
+/*  This file is just to set the default sizes of html/tsx tags. All other styles were removed  */
+
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+}
