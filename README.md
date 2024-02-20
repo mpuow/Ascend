@@ -1,6 +1,6 @@
 # Ascend
 
-![manifest-icon-512 maskable](https://github.com/mpuow/timeapp/assets/135591875/fadd0fbd-169e-4696-b73a-1a876cdcd98a)
+![manifest-icon-512 maskable](/src/assets/manifest-icon-512.maskable.png)
 
 
 # Ascend is a gamified personal time management app that allows users to track their progress and reach their goals.
