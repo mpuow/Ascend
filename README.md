@@ -20,7 +20,7 @@ The app can be viewed here: _[Ascend](https://time-app2.web.app/)_
 
 # Example of the task list
 
-![taskshot](https://github.com/mpuow/timeapp/assets/135591875/e665e7cf-4577-4b7d-9bab-410b08d4e0b8)
+![taskshot](/src/assets/taskshot.png)
 
 # How to install Ascend
 
